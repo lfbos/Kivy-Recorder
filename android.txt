@@ -1,0 +1,3 @@
+title=Sound recorder
+author=Luis Boscan
+orientation=portrait
